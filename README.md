@@ -5,11 +5,11 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-21-DD0031?logo=angular&logoColor=white)](https://angular.dev/)
 
-Portfólio técnico com projetos fullstack, microsserviços e processamento assíncrono.
+Portfólio técnico de um engenheiro **FullStack** com projetos que cobrem desde API REST e microsserviços até SPA Angular e integrações assíncronas.
 
 ## Sobre
 
-Engenheiro de software com foco em **backend Java** e **arquitetura de microsserviços**. Experiência com Spring Boot, Spring Cloud, mensageria assíncrona (RabbitMQ), Angular e esteiras de CI/CD com cobertura de testes. Desenvolvimento orientado a contratos de API (OpenAPI), separação por camadas e boas práticas de qualidade (JaCoCo, Checkstyle, SpotBugs, PMD).
+Engenheiro de software **FullStack** com experiência em desenvolvimento end-to-end — do backend Java (Spring Boot, Spring Cloud, EJB) ao frontend (Angular) e à infraestrutura (Docker, GitHub Actions, CI/CD). Atua em arquiteturas de microsserviços com mensageria (RabbitMQ), APIs orientadas a contrato (OpenAPI), qualidade de código (JaCoCo, Checkstyle, SpotBugs, PMD) e cobertura de testes (JUnit, Mockito, Testcontainers).
 
 ## Experiências em Tecnologias
 

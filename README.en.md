@@ -5,11 +5,11 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-21-DD0031?logo=angular&logoColor=white)](https://angular.dev/)
 
-Technical portfolio with fullstack, microservices and asynchronous processing projects.
+Technical portfolio of a **FullStack** engineer covering REST APIs, microservices, Angular SPAs and asynchronous integrations.
 
 ## About
 
-Software engineer focused on **Java backend** and **microservices architecture**. Experience with Spring Boot, Spring Cloud, asynchronous messaging (RabbitMQ), Angular and CI/CD pipelines with test coverage. API-contract-first development (OpenAPI), layered architecture and quality best practices (JaCoCo, Checkstyle, SpotBugs, PMD).
+**FullStack** software engineer with end-to-end development experience — from Java backend (Spring Boot, Spring Cloud, EJB) to frontend (Angular) and infrastructure (Docker, GitHub Actions, CI/CD). Works with microservices architectures, async messaging (RabbitMQ), contract-first APIs (OpenAPI), code quality (JaCoCo, Checkstyle, SpotBugs, PMD) and test coverage (JUnit, Mockito, Testcontainers).
 
 ## Technology Experience
 
