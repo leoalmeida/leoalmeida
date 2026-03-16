@@ -30,15 +30,14 @@ Engenheiro de software **FullStack** com mais de 18 anos de experiência no dese
 | desafio-fullstack | Integração fullstack entre SPA Angular, backend Spring Boot e módulo EJB para regras de transferência de benefícios. Containerizado com Docker Compose. | Angular, Spring Boot, EJB, H2, Docker | [Repositório](https://github.com/leoalmeida/desafio-fullstack) |
 | desafioBTG | Processamento assíncrono de pedidos (RabbitMQ), dois microsserviços de domínio (order, customer), MySQL e dashboard Angular para relatórios por cliente. | Spring Boot, RabbitMQ, MySQL, Angular | [Repositório](https://github.com/leoalmeida/desafioBTG) |
 | votacao-backend | Ecossistema com Eureka Discovery, API Gateway, três serviços de domínio (associados, pautas, sessões), MongoDB, RabbitMQ e frontend Angular. Spring Cloud 2025. | Spring Boot 3.5, Spring Cloud, MongoDB, RabbitMQ, Angular | [Repositório](https://github.com/leoalmeida/votacao-backend) |
-| space-ecommerce-ms | Plataforma de e-commerce com microsserviços de pedidos e pagamentos, Eureka Discovery e Spring Cloud Gateway. | Spring Boot 3.5, Spring Cloud, Java 17 | [Repositório](https://github.com/leoalmeida/space-ecommerce-ms) |
-| desafios | Coleção de desafios de backend e problemas de design de sistemas para entrevistas técnicas. | Java, Spring Boot, Maven | [Repositório](https://github.com/leoalmeida/desafios) |
 | crawler-springboot | Crawler de conteúdo web com Spring Boot e agendamento de tarefas. | Spring Boot, Java | [Repositório](https://github.com/leoalmeida/crawler-springboot) |
 | crawler-sparkjava | Crawler leve com Spark Java para coleta e exposição de dados via API. | Java, Spark | [Repositório](https://github.com/leoalmeida/crawler-sparkjava) |
 | api-gateway | Gateway de entrada para ecossistema distribuído com roteamento e filtros. | Spring Cloud Gateway, Java | [Repositório](https://github.com/leoalmeida/api-gateway) |
 | service-discovery | Registro e descoberta de serviços para arquitetura de microsserviços. | Eureka, Spring Cloud, Java | [Repositório](https://github.com/leoalmeida/service-discovery) |
 | api-nodejs | API REST com Node.js e Express, frontend React e persistência MongoDB. Containerizado com Docker. | Node.js, Express, React, MongoDB, Docker | [Repositório](https://github.com/leoalmeida/api-nodejs) |
-| busWebReact | Aplicação de gerenciamento de rotas de ônibus com implementações em Angular e React/Next.js. | Angular 21, React, Next.js, TypeScript | [Repositório](https://github.com/leoalmeida/busWebReact) |
+| busWeb | Aplicação de gerenciamento de rotas de ônibus com implementações em AngularJS. | Angular, JavaScript | [Repositório](https://github.com/leoalmeida/busWeb) |
 | busSpark | Pipeline de dados GPS de rotas de ônibus com processamento distribuído via PySpark e Kafka. | Python, PySpark, Kafka, Pytest | [Repositório](https://github.com/leoalmeida/busSpark) |
+| space-ecommerce-ms | Plataforma de e-commerce com microsserviços de pedidos e pagamentos, Eureka Discovery e Spring Cloud Gateway. | Spring Boot 3.5, Spring Cloud, Java 17 | [Repositório](https://github.com/leoalmeida/space-ecommerce-ms) |
 | AI-workspace | Notebooks de aprendizado de máquina abrangendo classificação, clustering, regressão e processamento de imagens. | Python, Jupyter, scikit-learn | [Repositório](https://github.com/leoalmeida/AI-workspace) |
 
 ## Contato
