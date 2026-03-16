@@ -9,17 +9,18 @@ Portfólio técnico de um engenheiro **FullStack** com projetos que cobrem desde
 
 ## Sobre
 
-Engenheiro de software **FullStack** com experiência em desenvolvimento end-to-end — do backend Java (Spring Boot, Spring Cloud, EJB) ao frontend (Angular) e à infraestrutura (Docker, GitHub Actions, CI/CD). Atua em arquiteturas de microsserviços com mensageria (RabbitMQ), APIs orientadas a contrato (OpenAPI), qualidade de código (JaCoCo, Checkstyle, SpotBugs, PMD) e cobertura de testes (JUnit, Mockito, Testcontainers).
+Engenheiro de software **FullStack** com mais de 18 anos de experiência no desenvolvimento end-to-end — do backend Java (Spring Boot, Spring Cloud, EJB) ao frontend (Angular) e à infraestrutura (Docker, GitHub Actions, CI/CD). Atua em arquiteturas de microsserviços com mensageria (RabbitMQ), APIs orientadas a contrato (OpenAPI), qualidade de código (JaCoCo, Checkstyle, SpotBugs, PMD) e cobertura de testes (JUnit, Mockito, Testcontainers).
 
 ## Experiências em Tecnologias
 
-- Linguagens e runtime: Java 17+, TypeScript, JavaScript, SQL
-- Backend: Spring Boot, Spring Cloud, Spring Data, JPA, EJB
-- Frontend: Angular
-- Arquitetura e integração: microsserviços, API Gateway, Service Discovery, RabbitMQ, REST/OpenAPI
-- Banco de dados: MySQL, MongoDB, H2
-- Qualidade: JUnit, Mockito, Testcontainers, JaCoCo, Checkstyle, PMD, SpotBugs
-- DevOps e entrega: Docker, Docker Compose, GitHub Actions, Codecov
+- Linguagens e runtime: Java 5–8, 11 e 17+, TypeScript, JavaScript, Shell Script, PL/SQL, Node.js, Python
+- Backend: Spring Boot, Spring Security, Spring Cloud, Spring Data, JPA, EJB
+- Frontend: Angular 5–7 e 15+, React, Next.js
+- Arquitetura e integração: microsserviços, API Gateway, Service Discovery, Kafka, RabbitMQ, REST/OpenAPI
+- Banco de dados: Oracle, PostgreSQL, MySQL, MongoDB, H2
+- Testes: JUnit, Mockito, Testcontainers
+- Qualidade: JaCoCo, Checkstyle, PMD, SpotBugs, Spotless, ZapScan
+- DevOps e entrega: Docker, Docker Compose, GitLab CI, GitHub Actions, Codecov
 
 ## Projetos
 
@@ -29,10 +30,16 @@ Engenheiro de software **FullStack** com experiência em desenvolvimento end-to-
 | desafio-fullstack | Integração fullstack entre SPA Angular, backend Spring Boot e módulo EJB para regras de transferência de benefícios. Containerizado com Docker Compose. | Angular, Spring Boot, EJB, H2, Docker | [Repositório](https://github.com/leoalmeida/desafio-fullstack) |
 | desafioBTG | Processamento assíncrono de pedidos (RabbitMQ), dois microsserviços de domínio (order, customer), MySQL e dashboard Angular para relatórios por cliente. | Spring Boot, RabbitMQ, MySQL, Angular | [Repositório](https://github.com/leoalmeida/desafioBTG) |
 | votacao-backend | Ecossistema com Eureka Discovery, API Gateway, três serviços de domínio (associados, pautas, sessões), MongoDB, RabbitMQ e frontend Angular. Spring Cloud 2025. | Spring Boot 3.5, Spring Cloud, MongoDB, RabbitMQ, Angular | [Repositório](https://github.com/leoalmeida/votacao-backend) |
+| space-ecommerce-ms | Plataforma de e-commerce com microsserviços de pedidos e pagamentos, Eureka Discovery e Spring Cloud Gateway. | Spring Boot 3.5, Spring Cloud, Java 17 | [Repositório](https://github.com/leoalmeida/space-ecommerce-ms) |
+| desafios | Coleção de desafios de backend e problemas de design de sistemas para entrevistas técnicas. | Java, Spring Boot, Maven | [Repositório](https://github.com/leoalmeida/desafios) |
 | crawler-springboot | Crawler de conteúdo web com Spring Boot e agendamento de tarefas. | Spring Boot, Java | [Repositório](https://github.com/leoalmeida/crawler-springboot) |
 | crawler-sparkjava | Crawler leve com Spark Java para coleta e exposição de dados via API. | Java, Spark | [Repositório](https://github.com/leoalmeida/crawler-sparkjava) |
 | api-gateway | Gateway de entrada para ecossistema distribuído com roteamento e filtros. | Spring Cloud Gateway, Java | [Repositório](https://github.com/leoalmeida/api-gateway) |
 | service-discovery | Registro e descoberta de serviços para arquitetura de microsserviços. | Eureka, Spring Cloud, Java | [Repositório](https://github.com/leoalmeida/service-discovery) |
+| api-nodejs | API REST com Node.js e Express, frontend React e persistência MongoDB. Containerizado com Docker. | Node.js, Express, React, MongoDB, Docker | [Repositório](https://github.com/leoalmeida/api-nodejs) |
+| busWebReact | Aplicação de gerenciamento de rotas de ônibus com implementações em Angular e React/Next.js. | Angular 21, React, Next.js, TypeScript | [Repositório](https://github.com/leoalmeida/busWebReact) |
+| busSpark | Pipeline de dados GPS de rotas de ônibus com processamento distribuído via PySpark e Kafka. | Python, PySpark, Kafka, Pytest | [Repositório](https://github.com/leoalmeida/busSpark) |
+| AI-workspace | Notebooks de aprendizado de máquina abrangendo classificação, clustering, regressão e processamento de imagens. | Python, Jupyter, scikit-learn | [Repositório](https://github.com/leoalmeida/AI-workspace) |
 
 ## Contato
 
