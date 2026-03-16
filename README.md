@@ -9,7 +9,7 @@ Portfólio técnico com projetos fullstack, microsserviços e processamento ass�
 
 ## Sobre
 
-Engenheiro de software com foco em backend Java e arquitetura de microsserviços, atuando em soluções com integração entre APIs REST, mensageria e frontend Angular.
+Engenheiro de software com foco em **backend Java** e **arquitetura de microsserviços**. Experiência com Spring Boot, Spring Cloud, mensageria assíncrona (RabbitMQ), Angular e esteiras de CI/CD com cobertura de testes. Desenvolvimento orientado a contratos de API (OpenAPI), separação por camadas e boas práticas de qualidade (JaCoCo, Checkstyle, SpotBugs, PMD).
 
 ## Experiências em Tecnologias
 
@@ -23,16 +23,16 @@ Engenheiro de software com foco em backend Java e arquitetura de microsserviços
 
 ## Projetos
 
-| Projeto | Descrição | Stack Principal | Link |
+| Projeto | O que demonstra | Stack Principal | Link |
 | --- | --- | --- | --- |
-| desafio-fullstack | Aplicação fullstack com Angular, Spring Boot e módulo EJB para transferência de benefícios. | Angular, Spring Boot, EJB, Docker | [Repositório](https://github.com/leoalmeida/desafio-fullstack) |
-| votacao-backend | Ecossistema de votação com microsserviços de domínio, gateway, discovery e frontend. | Spring Boot, Spring Cloud, MongoDB, RabbitMQ, Angular | [Repositório](https://github.com/leoalmeida/votacao-backend) |
-| desafioBTG | Processamento assíncrono de pedidos e relatórios por cliente. | Spring Boot, RabbitMQ, MySQL, Angular | [Repositório](https://github.com/leoalmeida/desafioBTG) |
-| desafioMagalu | API para agendamento de comunicações com persistência e documentação de contrato. | Spring Boot, MySQL, OpenAPI, Testcontainers | [Repositório](https://github.com/leoalmeida/desafioMagalu) |
-| crawler-springboot | Projeto de crawler em Spring Boot. | Spring Boot, Java | [Repositório](https://github.com/leoalmeida/crawler-springboot) |
-| crawler-sparkjava | Projeto de crawler com Spark Java. | Java, Spark | [Repositório](https://github.com/leoalmeida/crawler-sparkjava) |
-| api-gateway | Gateway de entrada para ecossistema distribuído. | Spring Cloud Gateway, Java | [Repositório](https://github.com/leoalmeida/api-gateway) |
-| service-discovery | Service registry/discovery para microsserviços. | Eureka, Spring Cloud, Java | [Repositório](https://github.com/leoalmeida/service-discovery) |
+| desafioMagalu | API REST para agendamento de comunicações com OpenAPI, validação por contrato, Testcontainers e versionamento de schema com Flyway. | Spring Boot 4, MySQL, OpenAPI, Testcontainers | [Repositório](https://github.com/leoalmeida/desafioMagalu) |
+| desafio-fullstack | Integração fullstack entre SPA Angular, backend Spring Boot e módulo EJB para regras de transferência de benefícios. Containerizado com Docker Compose. | Angular, Spring Boot, EJB, H2, Docker | [Repositório](https://github.com/leoalmeida/desafio-fullstack) |
+| desafioBTG | Processamento assíncrono de pedidos (RabbitMQ), dois microsserviços de domínio (order, customer), MySQL e dashboard Angular para relatórios por cliente. | Spring Boot, RabbitMQ, MySQL, Angular | [Repositório](https://github.com/leoalmeida/desafioBTG) |
+| votacao-backend | Ecossistema com Eureka Discovery, API Gateway, três serviços de domínio (associados, pautas, sessões), MongoDB, RabbitMQ e frontend Angular. Spring Cloud 2025. | Spring Boot 3.5, Spring Cloud, MongoDB, RabbitMQ, Angular | [Repositório](https://github.com/leoalmeida/votacao-backend) |
+| crawler-springboot | Crawler de conteúdo web com Spring Boot e agendamento de tarefas. | Spring Boot, Java | [Repositório](https://github.com/leoalmeida/crawler-springboot) |
+| crawler-sparkjava | Crawler leve com Spark Java para coleta e exposição de dados via API. | Java, Spark | [Repositório](https://github.com/leoalmeida/crawler-sparkjava) |
+| api-gateway | Gateway de entrada para ecossistema distribuído com roteamento e filtros. | Spring Cloud Gateway, Java | [Repositório](https://github.com/leoalmeida/api-gateway) |
+| service-discovery | Registro e descoberta de serviços para arquitetura de microsserviços. | Eureka, Spring Cloud, Java | [Repositório](https://github.com/leoalmeida/service-discovery) |
 
 ## Contato
 
