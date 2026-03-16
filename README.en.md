@@ -3,9 +3,9 @@
 [Português](README.md) | [English](README.en.md)
 
 [![GitHub](https://img.shields.io/badge/GitHub-leoalmeida-181717?logo=github)](https://github.com/leoalmeida)
-[![Java](https://img.shields.io/badge/Java-17+-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Angular](https://img.shields.io/badge/Angular-21-DD0031?logo=angular&logoColor=white)](https://angular.dev/)
+[![Java](https://img.shields.io/badge/Java-5+-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x+-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Angular](https://img.shields.io/badge/Angular-5+-DD0031?logo=angular&logoColor=white)](https://angular.dev/)
 
 Technical portfolio of a **FullStack** engineer covering REST APIs, microservices, Angular/React SPAs, asynchronous integrations and data pipelines.
 
