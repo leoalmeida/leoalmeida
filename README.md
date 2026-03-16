@@ -1,5 +1,7 @@
 # Leonardo Almeida
 
+[Português](README.md) | [English](README.en.md)
+
 [![GitHub](https://img.shields.io/badge/GitHub-leoalmeida-181717?logo=github)](https://github.com/leoalmeida)
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)

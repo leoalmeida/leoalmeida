@@ -1,4 +1,4 @@
-# Leo Almeida
+# Leonardo Almeida
 
 [![GitHub](https://img.shields.io/badge/GitHub-leoalmeida-181717?logo=github)](https://github.com/leoalmeida)
 [![Java](https://img.shields.io/badge/Java-17+-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
